@@ -1,0 +1,3 @@
+git log --until=yy-mm-dd(up given date)
+
+git log --oneline --decarate---->shows branches

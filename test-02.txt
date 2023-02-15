@@ -1,0 +1,8 @@
+git log --until=yy-mm-dd(up given date)
+
+git log --oneline --decarate---->shows branches
+
+git reset --soft cid---->(to reset files from local repository to staging/index area)
+
+git reset --head file name---->(to reset files from staging/index area to Work space)(using * we can do multiple files)
+
